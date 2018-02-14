@@ -2,7 +2,7 @@ import React from "react";
 
 const Title = (props) => {
   const title = "The Story of Nicole & Sawyer";
-  const subTitle = "A Love Story, in Eight Parts"
+  const subTitle = "A Love Story, in Six Parts"
   return (
     <div className="title-text animated jackInTheBox">
         <h1 animated jackInTheBox>{ title }</h1>
