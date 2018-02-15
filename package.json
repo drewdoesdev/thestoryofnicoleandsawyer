@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://thestoryofnicoleandsawyer.us/.",
+  "homepage": "https://drewdoesdev.github.io/thestoryofnicoleandsawyer/",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
